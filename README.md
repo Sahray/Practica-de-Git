@@ -1,2 +1,2 @@
 # Practica-de-Git
-Sahray-Aguilar
+Esta es una practica de la materia de Desarrollo Web Integral
